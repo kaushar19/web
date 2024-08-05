@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/web%3E/static/js/main.8c6d97e6.js",
-    "static/media/Certificate.pdf": "/web%3E/static/media/Certificate.54bf4e5cf397ab960ecc.pdf",
-    "static/media/Carousel4.jpg": "/web%3E/static/media/Carousel4.bf1606d8b04b73a3a3da.jpg",
-    "static/media/Carousel2.jpg": "/web%3E/static/media/Carousel2.461339dbef3ab8d58a8d.jpg",
-    "static/media/KausarResume.pdf": "/web%3E/static/media/KausarResume.e04ca56755d0a5c175bc.pdf",
-    "static/media/Photo33.png": "/web%3E/static/media/Photo33.5a844048116ece77a814.png",
-    "static/media/Carousel1.jpg": "/web%3E/static/media/Carousel1.6e1ef1252649069e11c3.jpg",
-    "static/media/Carousel3.jpg": "/web%3E/static/media/Carousel3.38a248178fb692d3f9c3.jpg",
-    "static/media/Photo1.jpg": "/web%3E/static/media/Photo1.4d376008072b0216b134.jpg",
-    "index.html": "/web%3E/index.html",
-    "main.8c6d97e6.js.map": "/web%3E/static/js/main.8c6d97e6.js.map"
+    "main.js": "/web/static/js/main.71da3887.js",
+    "static/media/Certificate.pdf": "/web/static/media/Certificate.54bf4e5cf397ab960ecc.pdf",
+    "static/media/Carousel4.jpg": "/web/static/media/Carousel4.bf1606d8b04b73a3a3da.jpg",
+    "static/media/Carousel2.jpg": "/web/static/media/Carousel2.461339dbef3ab8d58a8d.jpg",
+    "static/media/KausarResume.pdf": "/web/static/media/KausarResume.e04ca56755d0a5c175bc.pdf",
+    "static/media/Photo33.png": "/web/static/media/Photo33.5a844048116ece77a814.png",
+    "static/media/Carousel1.jpg": "/web/static/media/Carousel1.6e1ef1252649069e11c3.jpg",
+    "static/media/Carousel3.jpg": "/web/static/media/Carousel3.38a248178fb692d3f9c3.jpg",
+    "static/media/Photo1.jpg": "/web/static/media/Photo1.4d376008072b0216b134.jpg",
+    "index.html": "/web/index.html",
+    "main.71da3887.js.map": "/web/static/js/main.71da3887.js.map"
   },
   "entrypoints": [
-    "static/js/main.8c6d97e6.js"
+    "static/js/main.71da3887.js"
   ]
 }
