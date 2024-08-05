@@ -17,10 +17,10 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route path="/gallery" element={<Gallery />} />
-        <Route path="/project" element={<Project />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/web" element={<Home />} />
+        <Route path="/web/gallery" element={<Gallery />} />
+        <Route path="/web/project" element={<Project />} />
+        <Route path="/web/contact" element={<Contact />} />
         <Route path="/countnumber" element={<CountNumber />} />
         <Route path="/cmsreact" element={<CMS />} />
         <Route path="/todoapp" element={<TodoApp />} />
