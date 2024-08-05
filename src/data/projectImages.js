@@ -6,7 +6,7 @@ export const projectImages = [
     name: "Customer Management System (Followed CRUD operation)",
     skills: "Skills Used:-React.JS,Bootstrap-5,CSS",
     githublink: "https://github.com/kaushar19/cmsreact",
-    linkproject: "/cmsreact",
+    linkproject: "/web/cmsreact",
   },
   {
     id: 1,
@@ -15,7 +15,7 @@ export const projectImages = [
     name: "Todo List App",
     skills: "Skills Used:-React.JS,CSS",
     githublink: "https://github.com/kaushar19/todoapp",
-    linkproject: "/todoapp",
+    linkproject: "/web/todoapp",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ export const projectImages = [
     name: "Resume Web Design",
     skills: "Skills Used:-React.JS,W3CSS,HTML-5",
     githublink: "https://github.com/kaushar19/resume-in-react",
-    linkproject: "/resume",
+    linkproject: "/web/resume",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const projectImages = [
     name: "Calculator",
     skills: "Skills Used:-React.JS,CSS",
     githublink: "https://github.com/kaushar19/calculator1",
-    linkproject: "/calculator1",
+    linkproject: "/web/calculator",
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ export const projectImages = [
     name: "Increase/Decrease Count Number",
     skills: "Skills Used:-React.js ,CSS",
     githublink: "https://github.com/kaushar19/counter",
-    linkproject: "/countnumber",
+    linkproject: "/web/countnumber",
   },
   {
     id: 5,
@@ -51,7 +51,7 @@ export const projectImages = [
     name: "Timer and Count Number",
     skills: "Skills Used:-React.js ,CSS",
     githublink: "*",
-    linkproject: "/timercounter",
+    linkproject: "/web/timercounter",
   },
   {
     id: 6,
@@ -60,7 +60,7 @@ export const projectImages = [
     name: "Calculator",
     skills: "Skills Used:-React.JS,CSS",
     githublink: "https://github.com/kaushar19/simplecalculator",
-    linkproject: "/calculator2",
+    linkproject: "/web/calcy",
   },
   {
     id: 7,

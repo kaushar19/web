@@ -21,13 +21,13 @@ function App() {
         <Route path="/web/gallery" element={<Gallery />} />
         <Route path="/web/project" element={<Project />} />
         <Route path="/web/contact" element={<Contact />} />
-        <Route path="/countnumber" element={<CountNumber />} />
-        <Route path="/cmsreact" element={<CMS />} />
-        <Route path="/todoapp" element={<TodoApp />} />
-        <Route path="/calculator1" element={<Calculator1 />} />
-        <Route path="/timercounter" element={<TimerCounter />} />
-        <Route path="/calculator2" element={<Calculator2 />} />
-        <Route path="/resume" element={<RHome />} />
+        <Route path="/web/countnumber" element={<CountNumber />} />
+        <Route path="/web/cmsreact" element={<CMS />} />
+        <Route path="/web/todoapp" element={<TodoApp />} />
+        <Route path="/web/calculator" element={<Calculator1 />} />
+        <Route path="/web/timercounter" element={<TimerCounter />} />
+        <Route path="/web/calcy" element={<Calculator2 />} />
+        <Route path="/web/resume" element={<RHome />} />
       </Routes>
     </BrowserRouter>
   );
