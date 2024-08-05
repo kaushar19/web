@@ -1,7 +1,7 @@
-export var projectImages = [
+export const projectImages = [
   {
     projectid: 1,
-    projectimage: "images/cmsreactimg.jpg",
+    image: "images/cmsreactimg.jpg",
     alt: "cms react",
     name: "Customer Management System (Followed CRUD operation)",
     skills: "Skills Used:-React.JS,Bootstrap-5,CSS",
@@ -10,7 +10,7 @@ export var projectImages = [
   },
   {
     projectid: 2,
-    projectimage: "images/todoapp.png",
+    image: "images/todoapp.png",
     alt: "To Do App",
     name: "Todo List App",
     skills: "Skills Used:-React.JS,CSS",
@@ -19,7 +19,7 @@ export var projectImages = [
   },
   {
     projectid: 3,
-    projectimage: "images/resume.png",
+    image: "images/resume.png",
     alt: "resume",
     name: "Resume Web Design",
     skills: "Skills Used:-React.JS,W3CSS,HTML-5",
@@ -28,7 +28,7 @@ export var projectImages = [
   },
   {
     projectid: 4,
-    projectimage: "images/calculator1.png",
+    image: "images/calculator1.png",
     alt: "Calculator",
     name: "Calculator",
     skills: "Skills Used:-React.JS,CSS",
@@ -37,7 +37,7 @@ export var projectImages = [
   },
   {
     projectid: 5,
-    projectimage: "images/countnumber.png",
+    image: "images/countnumber.png",
     alt: "counter",
     name: "Increase/Decrease Count Number",
     skills: "Skills Used:-React.js ,CSS",
@@ -46,7 +46,7 @@ export var projectImages = [
   },
   {
     projectid: 6,
-    projectimage: "images/timercounter.png",
+    image: "images/timercounter.png",
     alt: "Timer",
     name: "Timer and Count Number",
     skills: "Skills Used:-React.js ,CSS",
@@ -55,7 +55,7 @@ export var projectImages = [
   },
   {
     projectid: 7,
-    projectimage: "images/calculator2.png",
+    image: "images/calculator2.png",
     alt: "Calculator",
     name: "Calculator",
     skills: "Skills Used:-React.JS,CSS",
@@ -64,7 +64,7 @@ export var projectImages = [
   },
   {
     projectid: 8,
-    projectimage: "images/cms.png",
+    image: "images/cms.png",
     alt: "cms",
     name: "Customer Management System (Followed CRUD operation)",
     skills: "Skills Used:-JavaScript,CSS,Bootstrap-5,HTML-5",
@@ -73,7 +73,7 @@ export var projectImages = [
   },
   {
     projectid: 8,
-    projectimage: "images/figmatohtmlcrypto.png",
+    image: "images/figmatohtmlcrypto.png",
     alt: "figma to html",
     name: "Figma to HTML Responsive Web Design",
     skills: "Skills Used:-CSS,Bootstrap-5,HTML-5",
@@ -82,7 +82,7 @@ export var projectImages = [
   },
   {
     projectid: 9,
-    projectimage: "images/calculator3.png",
+    image: "images/calculator3.png",
     alt: "Calculator",
     name: "Calculator",
     skills: "Skills Used:-JavaScript,CSS,HTML-5",
@@ -91,7 +91,7 @@ export var projectImages = [
   },
   {
     projectid: 10,
-    projectimage: "images/pnrstatus.png",
+    image: "images/pnrstatus.png",
     alt: "PNR",
     name: "PNR Status",
     skills: "Skills Used:-JavaScript,API,CSS,Bootstrap-5,HTML-5",
@@ -100,7 +100,7 @@ export var projectImages = [
   },
   {
     projectid: 11,
-    projectimage: "images/getproductdata.png",
+    image: "images/getproductdata.png",
     alt: "Get All Product",
     name: "Get Product Data Using Api",
     skills: "Skills Used:-JavaScript,Api,Bootstrap-5,CSS,HTML-5",

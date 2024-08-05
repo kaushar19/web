@@ -1,5 +1,5 @@
 import React from "react";
-import Photo33 from "../images/Photo33.png";
+import Photo33 from "../photo/Photo33.png";
 import { Link } from "react-router-dom";
 import Certificate from '../pdf/Certificate.pdf';
 import KausarResume from '../pdf/KausarResume.pdf'

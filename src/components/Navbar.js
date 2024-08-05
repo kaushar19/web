@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Photo1 from "../images/Photo1.jpg";
+import Photo1 from "../photo/Photo1.jpg";
 function Navbar() {
   return (
     <>

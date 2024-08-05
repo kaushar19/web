@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { projectImages } from "../data/projectImages";
 import Footer from "../components/Footer";
+
 function Project() {
   return (
     <>
@@ -23,7 +24,7 @@ function ProjectCart({ item }) {
     <>
       <div className="projectcard">
         <div className="proimg">
-          <img src={item.projectimage} alt={item.alt} />
+          <img src={item.image} alt={item.alt} />
         </div>
         <div className="protitle">
           <div className="protitleh1">
