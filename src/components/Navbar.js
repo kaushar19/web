@@ -31,13 +31,13 @@ function Navbar() {
                 <Link
                   className="nav-link active nav-text"
                   aria-current="page"
-                  to="/"
+                  to="/web"
                 >
                   <span>HOME</span>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link nav-text" to="/gallery">
+                <Link className="nav-link nav-text" to="/web/gallery">
                   <span>GALLERY</span>
                 </Link>
               </li>
@@ -47,7 +47,7 @@ function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link nav-text" to="/contact">
+                <Link className="nav-link nav-text" to="/web/contact">
                   <span className="nsv-text ">CONTACT US</span>
                 </Link>
               </li>
