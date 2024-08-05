@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
+import Gallery from "./pages/Gallery";
+import Contact from "./pages/Contact";
+import Project from "./pages/Project";
+import CountNumber from "./components/CountNumber";
+import CMS from "./components/CMS";
+import TodoApp from "./components/TodoApp";
+import Calculator1 from "./components/Calculator1";
+import TimerCounter from "./components/TimerCounter";
+import Calculator2 from "./components/Calculator2";
+import RHome from "./components/Resume/RHome";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/gallery" element={<Gallery />} />
+        <Route path="/project" element={<Project />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/countnumber" element={<CountNumber />} />
+        <Route path="/cmsreact" element={<CMS />} />
+        <Route path="/todoapp" element={<TodoApp />} />
+        <Route path="/calculator1" element={<Calculator1 />} />
+        <Route path="/timercounter" element={<TimerCounter />} />
+        <Route path="/calculator2" element={<Calculator2 />} />
+        <Route path="/resume" element={<RHome />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
